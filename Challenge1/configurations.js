@@ -1,2 +1,2 @@
-const company = "ACMEInc"
-const year = 2022
+export const company = "ACMEInc"
+export const year = 2022
