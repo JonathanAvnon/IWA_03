@@ -1,0 +1,1 @@
+console.log (roleCEO, roleHOM, roleIntern)
